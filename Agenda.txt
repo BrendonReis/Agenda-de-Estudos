@@ -1,0 +1,18 @@
+## Segunda-Feira
+
+[Desafio Projeto Git](https://web.dio.me/project/criando-seu-primeiro-repositorio-no-github-para-compartilhar-seu-progresso/learning/a6e285fa-b9a0-4bc2-8353-7b729dabcf0c)
+
+## Terça-Feira
+
+[Mentoria 2: Como ser o próximo contratado pela MRV](https://web.dio.me/live/mentoria-2-como-ser-o-proximo-contratado-pelo-mrv/learning/bd7267f3-2e32-496d-9e97-f3f8efb9fb5b?back=/track/mrv-fullstack-developer)
+
+## Quarta-Feira
+
+[Introdução a criação de websites com HTML5 e CSS3](https://web.dio.me/course/introducao-criacao-de-websites-com-html5-e-css3/learning/462f831d-5fdf-485e-bf07-1d391eb94ac8?back=/track/mrv-fullstack-developer)
+
+## Quinta-Feira
+
+[Construindo páginas para internet com Bootstrap](https://web.dio.me/course/crie-paginas-responsivas-na-web-utilizando-um-poderoso-framework/learning/d5695916-44d4-4d47-9db4-0bc829264835?back=/track/mrv-fullstack-developer)
+
+
+
